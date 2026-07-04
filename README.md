@@ -41,11 +41,10 @@ npm start
 
 ## Live Demo
 
-Coming soon on Vercel!
+https://medi-vault-henna.vercel.app
 
-## Screenshots
 
-Landing page, dashboard, emergency view and more coming soon.
+
 
 ## License
 
